@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.40">
+<file name="D:\Projetos\Projetos Java\características-da-linguagem\src\main\java\one\digital\innovation\Programa.java">
+<error line="7" column="5" severity="warning" message="&apos;method def modifier&apos; tem um nível de indentação incorreto de 4. O nível esperado era o 2." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="7" column="43" severity="warning" message="WhitespaceAround: &apos;{&apos; is not preceded with whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="9" column="9" severity="warning" message="O filho de &apos;method def&apos; está no nível de indentação incorreto de 8. O nível esperado era o 4." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="11" column="9" severity="warning" message="O filho de &apos;method def&apos; está no nível de indentação incorreto de 8. O nível esperado era o 4." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="11" column="23" severity="warning" message="Abreviações no nome &apos;calculatorIMC&apos; não deveriam conter mais do que &apos;1&apos; letras maiúsculas consecutivas." source="com.puppycrawl.tools.checkstyle.checks.naming.AbbreviationAsWordInNameCheck"/>
+<error line="12" column="9" severity="warning" message="O filho de &apos;method def&apos; está no nível de indentação incorreto de 8. O nível esperado era o 4." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="13" column="9" severity="warning" message="O filho de &apos;method def&apos; está no nível de indentação incorreto de 8. O nível esperado era o 4." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="15" column="5" severity="warning" message="&apos;method def rcurly&apos; tem um nível de indentação incorreto de 4. O nível esperado era o 2." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+</file>
+<file name="D:\Projetos\Projetos Java\características-da-linguagem\src\main\java\one\digital\innovation\exemplos\Concat.java">
+<error line="4" column="5" severity="warning" message="&apos;method def modifier&apos; tem um nível de indentação incorreto de 4. O nível esperado era o 2." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="4" column="43" severity="warning" message="WhitespaceAround: &apos;{&apos; is not preceded with whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="5" column="9" severity="warning" message="O filho de &apos;method def&apos; está no nível de indentação incorreto de 8. O nível esperado era o 4." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="7" column="5" severity="warning" message="&apos;method def rcurly&apos; tem um nível de indentação incorreto de 4. O nível esperado era o 2." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+</file>
+<file name="D:\Projetos\Projetos Java\características-da-linguagem\src\main\java\one\digital\innovation\exemplos\HelloWorld.java">
+<error line="4" column="5" severity="warning" message="&apos;method def modifier&apos; tem um nível de indentação incorreto de 4. O nível esperado era o 2." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="4" column="43" severity="warning" message="WhitespaceAround: &apos;{&apos; is not preceded with whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="5" column="9" severity="warning" message="O filho de &apos;method def&apos; está no nível de indentação incorreto de 8. O nível esperado era o 4." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="7" column="9" severity="warning" message="O filho de &apos;method def&apos; está no nível de indentação incorreto de 8. O nível esperado era o 4." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="9" column="9" severity="warning" message="O filho de &apos;method def&apos; está no nível de indentação incorreto de 8. O nível esperado era o 4." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="11" column="9" severity="warning" message="&apos;for&apos; tem um nível de indentação incorreto de 8. O nível esperado era o 4." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="11" column="20" severity="warning" message="WhitespaceAround: &apos;:&apos; is not preceded with whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="12" column="13" severity="warning" message="O filho de &apos;for&apos; está no nível de indentação incorreto de 12. O nível esperado era o 6." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="13" column="9" severity="warning" message="&apos;for rcurly&apos; tem um nível de indentação incorreto de 8. O nível esperado era o 4." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="14" column="5" severity="warning" message="&apos;method def rcurly&apos; tem um nível de indentação incorreto de 4. O nível esperado era o 2." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+</file>
+<file name="D:\Projetos\Projetos Java\características-da-linguagem\src\main\java\one\digital\innovation\exemplos\ReplaceAll.java">
+<error line="4" column="5" severity="warning" message="&apos;method def modifier&apos; tem um nível de indentação incorreto de 4. O nível esperado era o 2." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="4" column="43" severity="warning" message="WhitespaceAround: &apos;{&apos; is not preceded with whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="5" column="9" severity="warning" message="O filho de &apos;method def&apos; está no nível de indentação incorreto de 8. O nível esperado era o 4." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="5" column="61" severity="warning" message="&apos;,&apos; não está seguido de espaço em branco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAfterCheck"/>
+<error line="6" column="5" severity="warning" message="&apos;method def rcurly&apos; tem um nível de indentação incorreto de 4. O nível esperado era o 2." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+</file>
+<file name="D:\Projetos\Projetos Java\características-da-linguagem\src\main\java\one\digital\innovation\exemplos\Split.java">
+<error line="4" column="5" severity="warning" message="&apos;method def modifier&apos; tem um nível de indentação incorreto de 4. O nível esperado era o 2." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="4" column="43" severity="warning" message="WhitespaceAround: &apos;{&apos; is not preceded with whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="5" column="9" severity="warning" message="O filho de &apos;method def&apos; está no nível de indentação incorreto de 8. O nível esperado era o 4." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="7" column="9" severity="warning" message="O filho de &apos;method def&apos; está no nível de indentação incorreto de 8. O nível esperado era o 4." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="7" column="21" severity="warning" message="Os colchetes do array estão na posição incorreta." source="com.puppycrawl.tools.checkstyle.checks.ArrayTypeStyleCheck"/>
+<error line="8" column="9" severity="warning" message="O filho de &apos;method def&apos; está no nível de indentação incorreto de 8. O nível esperado era o 4." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="10" column="9" severity="warning" message="&apos;for&apos; tem um nível de indentação incorreto de 8. O nível esperado era o 4." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="10" column="21" severity="warning" message="Local variable name &apos;N&apos; must match pattern &apos;^[a-z]([a-z0-9][a-zA-Z0-9]*)?$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.LocalVariableNameCheck"/>
+<error line="10" column="22" severity="warning" message="WhitespaceAround: &apos;:&apos; is not preceded with whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="12" column="13" severity="warning" message="O filho de &apos;for&apos; está no nível de indentação incorreto de 12. O nível esperado era o 6." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="13" column="9" severity="warning" message="&apos;for rcurly&apos; tem um nível de indentação incorreto de 8. O nível esperado era o 4." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="14" column="5" severity="warning" message="&apos;method def rcurly&apos; tem um nível de indentação incorreto de 4. O nível esperado era o 2." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+</file>
+<file name="D:\Projetos\Projetos Java\características-da-linguagem\src\main\java\one\digital\innovation\exemplos\TesteComIntStream.java">
+<error line="6" column="5" severity="warning" message="&apos;method def modifier&apos; tem um nível de indentação incorreto de 4. O nível esperado era o 2." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="6" column="43" severity="warning" message="WhitespaceAround: &apos;{&apos; is not preceded with whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="7" column="9" severity="warning" message="O filho de &apos;method def&apos; está no nível de indentação incorreto de 8. O nível esperado era o 4." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="7" column="26" severity="warning" message="&apos;,&apos; não está seguido de espaço em branco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAfterCheck"/>
+<error line="8" column="13" severity="warning" message="O filho de &apos;block&apos; está no nível de indentação incorreto de 12. O nível esperado era o 10." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="9" column="13" severity="warning" message="O filho de &apos;block&apos; está no nível de indentação incorreto de 12. O nível esperado era o 10." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="9" column="43" severity="warning" message="WhitespaceAround: &apos;+&apos; is not preceded with whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="11" column="5" severity="warning" message="&apos;method def rcurly&apos; tem um nível de indentação incorreto de 4. O nível esperado era o 2." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+</file>
+<file name="D:\Projetos\Projetos Java\características-da-linguagem\src\main\java\one\digital\innovation\imc\CalculadorIMC.java">
+<error line="5" column="14" severity="warning" message="Abreviações no nome &apos;CalculadorIMC&apos; não deveriam conter mais do que &apos;1&apos; letras maiúsculas consecutivas." source="com.puppycrawl.tools.checkstyle.checks.naming.AbbreviationAsWordInNameCheck"/>
+<error line="7" column="5" severity="warning" message="&apos;method def modifier&apos; tem um nível de indentação incorreto de 4. O nível esperado era o 2." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="7" column="46" severity="warning" message="WhitespaceAround: &apos;{&apos; is not preceded with whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="8" column="9" severity="warning" message="O filho de &apos;method def&apos; está no nível de indentação incorreto de 8. O nível esperado era o 4." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="9" column="9" severity="warning" message="O filho de &apos;method def&apos; está no nível de indentação incorreto de 8. O nível esperado era o 4." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="11" column="9" severity="warning" message="O filho de &apos;method def&apos; está no nível de indentação incorreto de 8. O nível esperado era o 4." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="12" column="5" severity="warning" message="&apos;method def rcurly&apos; tem um nível de indentação incorreto de 4. O nível esperado era o 2." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+</file>
+<file name="D:\Projetos\Projetos Java\características-da-linguagem\src\main\java\one\digital\innovation\pessoa\Pessoa.java">
+<error line="5" column="5" severity="warning" message="&apos;member def modifier&apos; tem um nível de indentação incorreto de 4. O nível esperado era o 2." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="6" column="5" severity="warning" message="&apos;member def modifier&apos; tem um nível de indentação incorreto de 4. O nível esperado era o 2." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="7" column="5" severity="warning" message="&apos;member def modifier&apos; tem um nível de indentação incorreto de 4. O nível esperado era o 2." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="9" column="5" severity="warning" message="&apos;ctor def modifier&apos; tem um nível de indentação incorreto de 4. O nível esperado era o 2." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="9" column="19" severity="warning" message="&apos;(&apos; está precedido por espaço em branco." source="com.puppycrawl.tools.checkstyle.checks.whitespace.MethodParamPadCheck"/>
+<error line="9" column="78" severity="warning" message="WhitespaceAround: &apos;{&apos; is not preceded with whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="10" column="9" severity="warning" message="O filho de &apos;ctor def&apos; está no nível de indentação incorreto de 8. O nível esperado era o 4." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="11" column="9" severity="warning" message="O filho de &apos;ctor def&apos; está no nível de indentação incorreto de 8. O nível esperado era o 4." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="12" column="9" severity="warning" message="O filho de &apos;ctor def&apos; está no nível de indentação incorreto de 8. O nível esperado era o 4." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="13" column="5" severity="warning" message="&apos;ctor def rcurly&apos; tem um nível de indentação incorreto de 4. O nível esperado era o 2." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="15" column="5" severity="warning" message="&apos;method def modifier&apos; tem um nível de indentação incorreto de 4. O nível esperado era o 2." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="15" column="28" severity="warning" message="WhitespaceAround: &apos;{&apos; is not preceded with whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="16" column="9" severity="warning" message="O filho de &apos;method def&apos; está no nível de indentação incorreto de 8. O nível esperado era o 4." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="17" column="5" severity="warning" message="&apos;method def rcurly&apos; tem um nível de indentação incorreto de 4. O nível esperado era o 2." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="19" column="5" severity="warning" message="&apos;method def modifier&apos; tem um nível de indentação incorreto de 4. O nível esperado era o 2." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="19" column="28" severity="warning" message="WhitespaceAround: &apos;{&apos; is not preceded with whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="20" column="9" severity="warning" message="O filho de &apos;method def&apos; está no nível de indentação incorreto de 8. O nível esperado era o 4." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="21" column="5" severity="warning" message="&apos;method def rcurly&apos; tem um nível de indentação incorreto de 4. O nível esperado era o 2." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="23" column="5" severity="warning" message="&apos;method def modifier&apos; tem um nível de indentação incorreto de 4. O nível esperado era o 2." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="23" column="30" severity="warning" message="WhitespaceAround: &apos;{&apos; is not preceded with whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="24" column="9" severity="warning" message="O filho de &apos;method def&apos; está no nível de indentação incorreto de 8. O nível esperado era o 4." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="25" column="5" severity="warning" message="&apos;method def rcurly&apos; tem um nível de indentação incorreto de 4. O nível esperado era o 2." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+</file>
+</checkstyle>
