@@ -1,51 +1,57 @@
 ExemplosList/JavaArrayList.java
  ExemplosList.JavaArrayList
-JavaAlgoritmosBasicos/exemplos/ReplaceAll.java
- JavaAlgoritmosBasicos.exemplos.ReplaceAll
-ExemplosList/JavaLinkedList.java
- ExemplosList.JavaLinkedList
 OrientacaoAObjeto/funcionario/Funcionario.java
  OrientacaoAObjeto.funcionario.Funcionario
-OrientacaoAObjeto/funcionario/Programa.java
- OrientacaoAObjeto.funcionario.Programa
- OrientacaoAObjeto.funcionario.Programa$1
- OrientacaoAObjeto.funcionario.Programa$2
- OrientacaoAObjeto.funcionario.Programa$3
 OrientacaoAObjeto/carro/Carro.java
  OrientacaoAObjeto.carro.Carro
-ExemplosQueue/ExercicioQueue.java
- ExemplosQueue.ExercicioQueue
 JavaAlgoritmosBasicos/imc/CalculadorIMC.java
  JavaAlgoritmosBasicos.imc.CalculadorIMC
-JavaAlgoritmosBasicos/exemplos/HelloWorld.java
- JavaAlgoritmosBasicos.exemplos.HelloWorld
 JavaAlgoritmosBasicos/exemplos/Split.java
  JavaAlgoritmosBasicos.exemplos.Split
 JavaAlgoritmosBasicos/exemplos/TesteComIntStream.java
  JavaAlgoritmosBasicos.exemplos.TesteComIntStream
 OrientacaoAObjeto/funcionario/Atendente.java
  OrientacaoAObjeto.funcionario.Atendente
+ExemplosSet/ExemploHashSet.java
+ ExemplosSet.ExemploHashSet
+JavaAlgoritmosBasicos/exemplos/Concat.java
+ JavaAlgoritmosBasicos.exemplos.Concat
+OrientacaoAObjeto/funcionario/Gerente.java
+ OrientacaoAObjeto.funcionario.Gerente
+ExemplosSet/ExemploTreeSet.java
+ ExemplosSet.ExemploTreeSet
+AlgoritmosLeetCode/FirstArrayExamples.java
+ AlgoritmosLeetCode.FirstArrayExamples
+JavaAlgoritmosBasicos/Programa.java
+ JavaAlgoritmosBasicos.Programa
+OrientacaoAObjeto/funcionario/Supervisor.java
+ OrientacaoAObjeto.funcionario.Supervisor
+JavaAlgoritmosBasicos/exemplos/ReplaceAll.java
+ JavaAlgoritmosBasicos.exemplos.ReplaceAll
+AlgoritmosLeetCode/MaxConsecutiveOnes.java
+ AlgoritmosLeetCode.MaxConsecutiveOnes
+ExemplosList/JavaLinkedList.java
+ ExemplosList.JavaLinkedList
+OrientacaoAObjeto/funcionario/Programa.java
+ OrientacaoAObjeto.funcionario.Programa
+ OrientacaoAObjeto.funcionario.Programa$1
+ OrientacaoAObjeto.funcionario.Programa$2
+ OrientacaoAObjeto.funcionario.Programa$3
+ExemplosQueue/ExercicioQueue.java
+ ExemplosQueue.ExercicioQueue
+JavaAlgoritmosBasicos/exemplos/HelloWorld.java
+ JavaAlgoritmosBasicos.exemplos.HelloWorld
 ExemplosSet/ExemploLinkedHashSet.java
  ExemplosSet.ExemploLinkedHashSet
+ExemplosSet/Exercicio.java
+ ExemplosSet.Exercicio
 JavaAlgoritmosBasicos/pessoa/Pessoa.java
  JavaAlgoritmosBasicos.pessoa.Pessoa
 Dates/JavaLocalDateTime.java
  Dates.JavaLocalDateTime
 OrientacaoAObjeto/carro/Programa.java
  OrientacaoAObjeto.carro.Programa
-ExemplosSet/ExemploHashSet.java
- ExemplosSet.ExemploHashSet
-OrientacaoAObjeto/funcionario/Gerente.java
- OrientacaoAObjeto.funcionario.Gerente
-OrientacaoAObjeto/funcionario/Supervisor.java
- OrientacaoAObjeto.funcionario.Supervisor
 Dates/JavaDate.java
  Dates.JavaDate
-JavaAlgoritmosBasicos/Programa.java
- JavaAlgoritmosBasicos.Programa
-JavaAlgoritmosBasicos/exemplos/Concat.java
- JavaAlgoritmosBasicos.exemplos.Concat
-ExemplosSet/ExemploTreeSet.java
- ExemplosSet.ExemploTreeSet
-ExemplosSet/Exercicio.java
- ExemplosSet.Exercicio
+AlgoritmosLeetCode/MaxConsecutiveOnesResult.java
+ AlgoritmosLeetCode.MaxConsecutiveOnesResult
