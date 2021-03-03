@@ -1,4 +1,4 @@
-package AlgoritmosLeetCode;
+package LeetCodeAlgorithms;
 
 public class MaxConsecutiveOnes {
 

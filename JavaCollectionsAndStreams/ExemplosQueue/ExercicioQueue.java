@@ -1,4 +1,4 @@
-package ExemplosQueue;
+package JavaCollectionsAndStreams.ExemplosQueue;
 
 import java.util.*;
 

@@ -1,4 +1,4 @@
-package ExemplosList;
+package JavaCollectionsAndStreams.ExemplosList;
 
 import java.util.*;
 

@@ -1,6 +1,6 @@
-package JavaAlgoritmosBasicos.imc;
+package BasicExercises.JavaAlgoritmosBasicos.imc;
 
-import JavaAlgoritmosBasicos.pessoa.Pessoa;
+import BasicExercises.JavaAlgoritmosBasicos.pessoa.Pessoa;
 
 import java.math.BigDecimal;
 import java.math.RoundingMode;

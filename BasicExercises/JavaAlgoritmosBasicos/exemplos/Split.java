@@ -1,4 +1,4 @@
-package JavaAlgoritmosBasicos.exemplos;
+package BasicExercises.JavaAlgoritmosBasicos.exemplos;
 
 public class Split {
     public static void main(String[] args){

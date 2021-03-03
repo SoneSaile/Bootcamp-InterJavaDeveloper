@@ -1,4 +1,4 @@
-package ExemplosSet;
+package JavaCollectionsAndStreams.ExemplosSet;
 
 import java.util.LinkedHashSet;
 

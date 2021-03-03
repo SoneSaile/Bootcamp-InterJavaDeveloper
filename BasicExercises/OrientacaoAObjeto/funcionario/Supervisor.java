@@ -1,4 +1,4 @@
-package OrientacaoAObjeto.funcionario;
+package BasicExercises.OrientacaoAObjeto.funcionario;
 
 public class Supervisor extends Funcionario {
 

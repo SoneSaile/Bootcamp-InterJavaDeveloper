@@ -1,4 +1,4 @@
-package JavaAlgoritmosBasicos.pessoa;
+package BasicExercises.JavaAlgoritmosBasicos.pessoa;
 
 public class Pessoa {
 

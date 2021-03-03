@@ -1,6 +1,6 @@
-package AlgoritmosLeetCode;
+package LeetCodeAlgorithms;
 
-import static AlgoritmosLeetCode.MaxConsecutiveOnes.findMaxConsecutiveOnes;
+import static LeetCodeAlgorithms.MaxConsecutiveOnes.findMaxConsecutiveOnes;
 
 public class MaxConsecutiveOnesResult {
         public static void main (String[] args) {

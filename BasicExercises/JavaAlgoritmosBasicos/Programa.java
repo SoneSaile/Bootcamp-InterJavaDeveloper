@@ -1,7 +1,7 @@
-package JavaAlgoritmosBasicos;
+package BasicExercises.JavaAlgoritmosBasicos;
 
-import JavaAlgoritmosBasicos.imc.CalculadorIMC;
-import JavaAlgoritmosBasicos.pessoa.Pessoa;
+import BasicExercises.JavaAlgoritmosBasicos.imc.CalculadorIMC;
+import BasicExercises.JavaAlgoritmosBasicos.pessoa.Pessoa;
 
 public class Programa {
     public static void main(String[] args){

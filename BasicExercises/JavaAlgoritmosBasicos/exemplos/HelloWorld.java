@@ -1,4 +1,4 @@
-package JavaAlgoritmosBasicos.exemplos;
+package BasicExercises.JavaAlgoritmosBasicos.exemplos;
 
 public class HelloWorld {
     public static void main(String[] args){

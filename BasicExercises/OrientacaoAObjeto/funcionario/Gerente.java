@@ -1,4 +1,4 @@
-package OrientacaoAObjeto.funcionario;
+package BasicExercises.OrientacaoAObjeto.funcionario;
 
 public class Gerente extends Funcionario{
     public Gerente(String nome, double salario) {

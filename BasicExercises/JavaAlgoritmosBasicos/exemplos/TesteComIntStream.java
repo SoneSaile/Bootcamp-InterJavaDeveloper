@@ -1,4 +1,4 @@
-package JavaAlgoritmosBasicos.exemplos;
+package BasicExercises.JavaAlgoritmosBasicos.exemplos;
 
 import java.util.stream.IntStream;
 

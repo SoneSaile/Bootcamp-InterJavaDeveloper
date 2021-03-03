@@ -1,4 +1,4 @@
-package JavaAlgoritmosBasicos.exemplos;
+package BasicExercises.JavaAlgoritmosBasicos.exemplos;
 
 public abstract class Concat {
     public static void main(String[] args){
